@@ -72,7 +72,6 @@ if msg.text == " بای" then
  return " برو به سلامت"
 end
 
-end
 return {
  description = "Chat With Robot Server", 
  usage = "chat with robot",
