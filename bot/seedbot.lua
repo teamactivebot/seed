@@ -241,6 +241,12 @@ function create_config( )
     "lock_reply",
     "lock_tag",
     "lock_username",
+    "kickme",
+    "means",
+    "tr",
+    "Weather",
+    "wai",
+    "echobot"
     },
     sudo_users = {152816907,,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
